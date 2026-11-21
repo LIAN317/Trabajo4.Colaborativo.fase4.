@@ -1,0 +1,6 @@
+[2026-11-20 21:14:32] [INFO] [Cliente] -> Cliente registrado correctamente: Cliente [CLI-001] - Camila Selena Gomez | Correo: camila.gomez@correo.com | Estado: Activo
+[2026-11-20 21:14:32] [ERROR] [MainPrueba] -> Error de validación en el campo 'correo': El correo 'correo-sin-arroba.com' no tiene un formato válido.
+[2026-11-20 21:14:32] [ERROR] [MainPrueba] -> Error de validación en el campo 'telefono': Debe contener entre 7 y 15 dígitos numéricos.
+[2026-11-20 21:14:45] [INFO] [Cliente] -> Cliente registrado correctamente: Cliente [CLI-001] - Camila Selena Gomez | Correo: camila.gomez@correo.com | Estado: Activo
+[2026-11-20 21:14:45] [ERROR] [MainPrueba] -> Error de validación en el campo 'correo': El correo 'correo-sin-arroba.com' no tiene un formato válido.
+[2026-11-20 21:14:45] [ERROR] [MainPrueba] -> Error de validación en el campo 'telefono': Debe contener entre 7 y 15 dígitos numéricos.
